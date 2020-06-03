@@ -1,2 +1,2 @@
-# class-21
-function with arguments
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
